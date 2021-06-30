@@ -1,2 +1,1 @@
-# Whole-stack
-mongoDB+vue+node
+# daydayUp
